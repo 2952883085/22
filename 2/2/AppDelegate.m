@@ -9,7 +9,7 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
-fdfdsf
+
 @end
 
 @implementation AppDelegate
@@ -17,6 +17,7 @@ fdfdsf
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    NSLog(@"测试");
     return YES;
 }
 
